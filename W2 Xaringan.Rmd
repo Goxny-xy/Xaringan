@@ -1,9 +1,9 @@
 ---
-title: "Presentation Ninja"
-subtitle: "⚔<br/>with xaringan"
-author: "Yihui Xie"
-institute: "RStudio, PBC"
-date: "2016/12/12 (updated: `r Sys.Date()`)"
+title: "Presentation of Landsat 8 "
+subtitle: "with specific focus on Operational Land Imager (OLI)"
+
+author: "Xiaoyun Gong"
+date: "2024/02/12 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -12,3 +12,42 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
+# Presentation outline:
+  * Bullet point
+    * Sub bullet point
+
+
+---
+# What is Landsat 8?
+.pull-left[
+('img/1.gif')
+[make a link](https://eospso.nasa.gov/missions/landsat-8))
+]
+
+.pull-right[
+  
+* Landsat 8 is an American Earth observation satellite launched on 11 February 2013.
+* Originally called the Landsat Data Continuity Mission (LDCM), it is a collaboration between NASA and the United States Geological Survey (USGS).
+* It comprises the camera of the Operational Land Imager (OLI) and the Thermal Infrared Sensor (TIRS), which can be used to study Earth surface temperature and is used to study global warming.
+* Landsat 8 ensures the continued acquisition and availability of Landsat data utilizing a two-sensor payload, the Operational Land Imager (OLI) and the Thermal InfraRed Sensor (TIRS). Respectively, these two instruments collect image data for nine shortwave bands and two longwave thermal bands.
+
+  ]
+---
+#
+
+
+---
+# What is OLI?
+* The Operational Land Imager (OLI) is a remote sensing instrument aboard Landsat 8, built by Ball Aerospace & Technologies.
+* OLI is a push broom scanner that uses a four-mirror telescope with fixed mirrors.
+* OLI operates in the visible (VIS) and short-wave infrared (SWIR) spectral regions. It has a width of 185 kilometers (115 miles), which means that it can image the entire Earth on a 16-day repeat cycle.
+---
+# Uses and features of OLI
+
+---
+# Summary
+
+---
+class: center, middle
+#Thank you!
+
