@@ -19,9 +19,14 @@ output:
 
 ---
 # What is Landsat 8?
+
+
 .pull-left[
-('img/1.gif')
-[make a link](https://eospso.nasa.gov/missions/landsat-8))
+<figure>
+<img src="img/1.gif" width="100%" style="display: block; margin: auto;" />
+<figcaption>Figure1: Landsat 8. Source: https://eospso.nasa.gov/missions/landsat-8. </figcaption>
+<figure>
+
 ]
 
 .pull-right[
@@ -33,8 +38,13 @@ output:
 
   ]
 ---
-#
+# Key tasks
+* Medium-resolution (30-metre spatial resolution) multispectral image data are collected and archived, providing global seasonal coverage of the land area for a period of not less than five years.
+* Distribute Landsat 8 data products free of charge to the public on a non-discriminatory basis.
 
+<video controls>
+  <source src="img/Landsat8.mp4" type="video/mp4">
+</video>
 
 ---
 # What is OLI?
